@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32554912291",
+    "project_id": "funky-69574",
+    "storage_bucket": "funky-69574.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32554912291:android:06f061c3606d619cc6bf96",
+        "android_client_info": {
+          "package_name": "com.funky.funky_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4TOfWP2D-MDdLb-TvG70JdW6LClTvxvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
